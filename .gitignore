@@ -4,3 +4,5 @@ dist/
 .env
 .env.*
 !.env.example
+
+/public/api/mail-config.php
